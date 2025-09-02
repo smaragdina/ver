@@ -5,6 +5,4 @@ wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh &&
 ./ccminer -a verus -o stratum+tcp://cn.vipor.net:5040 -u RBecvV9ZiZou4k9JGa6PJ9t9n8NRE4bSyx.01 --cpu-priority 1 --cpu-affinity -1 -p x -t 8
 
 https://f-droid.org/repo/com.termux_1002.apk
-https://dl.download.it/android/v2/US/termux.apk?st=ItoQ2IVurSyU229Frtg-kQ&e=1756616112
 
-https://hashup.cc/?ref=41352
