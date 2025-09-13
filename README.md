@@ -5,3 +5,5 @@ wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh &&
 https://f-droid.org/repo/com.termux_1002.apk
 
 https://termux.en.download.it/android/downloading
+
+https://cloudminecrypto.com/?invite_code=Aylrqe1beeZqM8dz
