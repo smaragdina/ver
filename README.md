@@ -8,4 +8,4 @@ https://termux.en.download.it/android/downloading
 
 https://cloudminecrypto.com/?invite_code=Aylrqe1beeZqM8dz
 
-https://liteapks.com/download/auto-clicker-macro-clickmate-34853/1
+https://sfile.mobi/bzWReIW0Le7
